@@ -2,10 +2,8 @@ import React from "react";
 import { Nav } from "react-bootstrap";
 import "./style.css";
 import { NavLink } from "react-router-dom";
-import { useStoreContext } from "../../utils/GlobalState";
 
 function Navigation() {
-  const [state, dispatch] = useStoreContext();
 
     return (
       <div>

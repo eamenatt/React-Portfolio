@@ -12,12 +12,12 @@ const projectSeed = [
   {
     name: "Weather Dashboard",
     details:"This project is a simple weather dashboard to display weather data to the user based on their current location or a search parameter." ,
-    url: < a href = 'https://github.com/eamenatt/weather-app' > My Project</a >
+    url: "https://github.com/eamenatt/weather-app"
   },
   {
     name: "Pandemic Pastimes: What's Cookin'?",
     details:"This was a group project to create an application that allowed the user to receive receipe recommendations based on the ingredients they have entered." ,
-    url: < a href = 'https://github.com/eamenatt/Pandemic-Pastime' > My Project</a >
+    url: "https://github.com/eamenatt/Pandemic-Pastime"
   },
   
 ];

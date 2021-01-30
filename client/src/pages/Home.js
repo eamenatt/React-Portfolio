@@ -74,7 +74,7 @@ function Home() {
             </p>
           <p>
             <Link to="/Contact">
-              <Button className="send-form" variant="outline-secondary">Contact Us</Button>
+              <Button className="send-form" variant="outline-secondary">Contact Me</Button>
             </Link>
           </p>
         </Jumbotron>
