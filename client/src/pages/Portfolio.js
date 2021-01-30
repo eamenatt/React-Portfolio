@@ -22,7 +22,7 @@ function Portfolio() {
                   <Card.Text className="pet-list-text">
                     {project.details}
                   </Card.Text>
-                  <Card.Subtitle className="mb-2 pet-list-text">Project Link: {project.url}</Card.Subtitle>
+                  <Card.Subtitle className="mb-2 pet-list-text">Project Link: <a href={project.url}>{project.url}</a>  </Card.Subtitle>
                 </Card.Body>
               </Card>
             ))}
