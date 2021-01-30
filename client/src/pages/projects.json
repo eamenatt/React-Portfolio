@@ -13,33 +13,33 @@
   },
   {
     "_id" : 3,
-    "name": "Pandemic Pastimes: What's Cookin'?",
-    "details":"This was a group project to create an application that allowed the user to receive receipe recommendations based on the ingredients they have entered." ,
-    "url": "https://github.com/eamenatt/Pandemic-Pastime"
+    "name": "Day Planner",
+    "details":"This appilication uses HTML, CSS and JavaScript to create a simple day planner application. The layout and times are dynamically generated using JS and Moment.js. The entry from the user is able to be saved to local storage for later acces or deleted." ,
+    "url": "https://github.com/eamenatt/Day-Planner"
   },
   {
     "_id" : 4,
-    "name": "Pandemic Pastimes: What's Cookin'?",
-    "details":"This was a group project to create an application that allowed the user to receive receipe recommendations based on the ingredients they have entered." ,
-    "url": "https://github.com/eamenatt/Pandemic-Pastime"
+    "name": "COVID-19 Tracking App",
+    "details":"This application allows the user to sign-up for an account to have access to updated statistics about the COVID-19 virus in their state. Users who are traveling can also select a new State from a dropdown menu. Data by state is also displayed in an embedded Tableau table for a visual representation of case spread." ,
+    "url": "https://github.com/eamenatt/COVID-19-Tracking-App"
   },
   {
     "_id" : 5,
-    "name": "Pandemic Pastimes: What's Cookin'?",
-    "details":"This was a group project to create an application that allowed the user to receive receipe recommendations based on the ingredients they have entered." ,
-    "url": "https://github.com/eamenatt/Pandemic-Pastime"
+    "name": "https://github.com/eamenatt/Workout-Tracker",
+    "details":"This is a fitness tracking applications with two core functionalities. First, users can create workout plans (or continue with plans that have already been created) and select different workout types, durations, reps, sets, etc. The second use is to show an aggregate of the amount of time spent and the different excecises the users has done on two charts on the tracking page." ,
+    "url": "https://github.com/eamenatt/Workout-Tracker"
   },
   {
     "_id" : 6,
-    "name": "Pandemic Pastimes: What's Cookin'?",
-    "details":"This was a group project to create an application that allowed the user to receive receipe recommendations based on the ingredients they have entered." ,
-    "url": "https://github.com/eamenatt/Pandemic-Pastime"
+    "name": "Offline Budget Tracker",
+    "details":"This is a web application that uses JavaScript, HTML, CSS, MongoDB, ServiceWorker, and Manifest to allow the application to function both online and offline. If the application is offline, the user input will be cached and then synced with the database once a connection is restored." ,
+    "url": "https://github.com/eamenatt/Offline-Budget-Tracker"
   },
   {
     "_id" : 7,
-    "name": "Pandemic Pastimes: What's Cookin'?",
-    "details":"This was a group project to create an application that allowed the user to receive receipe recommendations based on the ingredients they have entered." ,
-    "url": "https://github.com/eamenatt/Pandemic-Pastime"
+    "name": "Readme-Generator",
+    "details":"A simple application to ask the user a set of questions in order to easily generate a thorough README file." ,
+    "url": "https://github.com/eamenatt/Readme-Generator"
   }
 
 ]
