@@ -11,7 +11,7 @@ function Portfolio() {
     <div>
       <Header />
       <Navigation />
-      <h2 className="orange-text">My Project Portfolio</h2>
+      <h2 className="white-text">My Project Portfolio</h2>
       <Container>
         <Row>
           <Col size="md-12">
